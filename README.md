@@ -27,3 +27,7 @@ Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 Projeto feito por: **Fábio Kalil**
 
 Linkedin: https://www.linkedin.com/in/fabiokalilurllkd/
+
+Acesse a versão mais atual implantada em:
+
+https://portfolio-treino-li4fadxz6-klewzin.vercel.app/
